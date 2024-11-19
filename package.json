@@ -1,16 +1,11 @@
 {
-  "name": "week8",
-  "version": "1.0.0",
-  "main": "test.js",
-  "scripts": {
-    "start":"node test.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "name": "mongodb-mongoose",
   "dependencies": {
-    "express": "^4.21.1",
-    "mongodb": "^3.6.3"
-  }
+      "express": "^4.21.1",
+      "mongodb": "^3.6.3"
+  },
+  "scripts": {
+      "start":"node test.js",
+      "test":"echo \"Error: no test specified\" && exit 1"
+   }
 }
